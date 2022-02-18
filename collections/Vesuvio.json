@@ -3,5 +3,12 @@
 {
     "label": "Vesuvio",
     "type": "storyboardlist",
-    "items": []
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://liladude.github.io/vesuvio/annotations/dlib2-biblhertz-it-3-be32153880-p0039-list.json'></iiif-storyboard>",
+            "title": "Intestazione",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
 }
