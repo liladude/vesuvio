@@ -1,0 +1,35 @@
+---
+canvas: "https://dlib2.biblhertz.it/iiif/3/be32153880/canvas/p0457"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Decorazione chiusura capitolo",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-02-18T14:23:04.041Z",
+            "modified": "2022-02-18T14:23:10.466Z"
+        }
+    ],
+    "target": {
+        "source": "https://dlib2.biblhertz.it/iiif/3/be32153880/canvas/p0457",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=783.8072509765625,3193.920654296875,410.6771240234375,350.283447265625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dlib.biblhertz.it/iiif/be32153880/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ab25e7c0-f0c4-4ffb-a823-302c56a7e07f.json",
+    "motivation": "commenting"
+}
