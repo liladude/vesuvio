@@ -9,6 +9,12 @@
             "title": "Intestazione",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://liladude.github.io/vesuvio/annotations/dlib2-biblhertz-it-3-be32153880-p0457-list.json'></iiif-storyboard>",
+            "title": "dettaglio",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
